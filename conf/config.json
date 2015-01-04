@@ -1,0 +1,9 @@
+{
+    "port":"8888",
+    "host":"127.0.0.1",
+    "db_host": "127.0.0.1",
+    "db_port" : "3306",
+    "db_name" : "hwcert",
+    "db_user" : "hwcert",
+    "db_pass" : "redhat"
+}

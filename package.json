@@ -1,0 +1,28 @@
+{
+  "name": "kernel-param-review",
+  "version": "0.1.0",
+  "description": "kernel-param-review",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weizhishu/kernel-param-review.git"
+  },
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "dependencies": {
+    "mysql": "2.5.4"
+  },
+  "author": "Peng Mao",
+  "license": "MIT",
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/weizhishu/kernel-param-review/issues"
+  },
+  "homepage": "https://github.com/weizhishu/kernel-param-review"
+}
